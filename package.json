@@ -1,0 +1,10 @@
+{
+  "name": "l2-optimistic-node",
+  "version": "1.0.0",
+  "description": "Optimistic Rollup Sequencer and Relayer",
+  "dependencies": {
+    "ethers": "^6.11.1",
+    "merkle-patricia-tree": "^5.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
